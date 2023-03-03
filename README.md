@@ -1,16 +1,10 @@
-# chatapp
+# Flutter Chat App
 
-A new Flutter project.
+A personal chatting app
 
-## Getting Started
+## هەنگاوەکان
 
-This project is a starting point for a Flutter application.
+دڵنیا بە لەوەی کە تۆ google services زیاد دەکەی، بۆ ئەمە پێویستە پرۆژەیەکی نوێ لە فایربەیس بکەیتەوە.
+وە پێش ئەوەی debug یان run بکەی دڵنیا بە کە flutter pub get دەکەی بۆ ئەوەی هەموو پاکێجەکان دابەزێنی
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##بە هیوای سوود.... ❤️❤️
